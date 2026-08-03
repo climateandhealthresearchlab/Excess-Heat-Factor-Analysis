@@ -1,0 +1,17 @@
+Zone,Station,slope,p
+Sudan Savannah,Navrongo,0.285,0.0
+Sudan Savannah,Zuarungu,0.408,0.0
+Guinea Savannah,Wa,0.405,0.0
+Guinea Savannah,Bole,0.458,0.0
+Guinea Savannah,Tamale,0.453,0.0
+Guinea Savannah,Yendi,0.68,0.0
+Guinea Savannah,Kete Krachi,0.283,0.0
+Transition,Sunyani,0.348,0.0
+Transition,Wenchi,0.376,0.0
+Forest,Ho,0.266,0.014
+Forest,Kumasi,0.538,0.0
+Forest,Akim Oda,0.444,0.0
+Forest,Sefwi Bekwai,0.437,0.0
+Coastal,Accra,0.696,0.0
+Coastal,Akatsi,0.458,0.0
+Coastal,Tema,0.838,0.0
