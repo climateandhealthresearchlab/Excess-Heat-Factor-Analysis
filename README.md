@@ -20,7 +20,7 @@ All analysis code is in a single script — **`EHF--CODES.ipynb`** — organised
 | 4 | Station-level trends in annual heatwave days | §3.3 | Table 3 |
 | 5 | Return levels of intensity & duration (POT + GPD) | §3.4 | Fig. 9 |
 
-Cell markers (`# %%`) allow each section to be run interactively in VS Code, Spyder, or PyCharm.
+
 
 ## Data
 
