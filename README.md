@@ -1,4 +1,4 @@
-# Excess Heat Factor Analysis — Ghana
+# Excess Heat Factor Based Analysis of Heatwave in Ghana
 
 Companion code repository for:
 
@@ -10,7 +10,7 @@ This repository contains the analysis code used to characterize heatwaves across
 
 ## Contents
 
-All analysis code is in a single script — **`heatwave_analysis.py`** — organised in five sections in the order results appear in the paper:
+All analysis code is in a single script — **`EHF--CODES.ipynb`** — organised in five sections in the order results appear in the paper:
 
 | # | Section | Paper | Output |
 |---|---------|-------|--------|
